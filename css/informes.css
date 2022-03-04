@@ -1,0 +1,19 @@
+#table3,
+th,
+td{
+    border: black 2px solid;
+}
+
+#tabla3{
+    text-align: center;
+    float: left;
+}
+.container6{
+    overflow: hidden;
+}
+#info2{
+    height: 50px;
+}
+#infor{
+    float: right;
+}

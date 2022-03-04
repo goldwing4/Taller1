@@ -59,15 +59,7 @@ p.centrado{
     padding: 1em;
     overflow: hidden;
 }
-.container1{
-    padding: 1em;
-    overflow: hidden;
-}
-.container2{
-    text-align: center;
-    overflow: hidden;
-    padding: 1em;
-}
+
 .item{
     margin: 1em;
     padding: 1em;
@@ -108,6 +100,24 @@ p.centrado{
     height: 620px;
     width: 500px;
 
+}
+#item7{
+    float: left;
+    height: 620px;
+    width: 500px;
+}
+.container7{
+    text-align: center;
+    overflow: hidden;
+    padding: 1em;
+}
+#table4,
+th,
+td{
+    border: black 2px solid;
+}
+#table4{
+    text-align: center;
 }
 .titulos{
     color: black;

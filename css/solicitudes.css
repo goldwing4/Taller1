@@ -1,0 +1,20 @@
+.container5{
+    padding: 1em;
+    overflow: hidden;
+}
+#info{
+    width: 50%;
+    height: 5px;
+}
+#tabla1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+}
+#tabla2{
+    float: left;
+}
+#table1,
+th,
+td{
+    border: black 2px solid;
+}
